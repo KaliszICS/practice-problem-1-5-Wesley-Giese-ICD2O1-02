@@ -3,7 +3,7 @@ def q1():
   #Write Assignment code here 
   word1 = ("Input an integer ")
   word1 = (input("Input an integer: "))
-  word1 = word1 + 3
+  word1 = int(word1) + 3
   print(word1)
 def q2():
   #Write Assignment code here
